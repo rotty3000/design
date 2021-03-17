@@ -1,7 +1,22 @@
 = ASCIIDOC README
 Author Name <rotty2000@gmail.com>
 v2.0, 2019-03-22
+:source-highlighter: pygments
+:pygments-style: github
 :toc:
 :gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/rotty3000/design/rotty3000-patch-1/
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
-image::{gitplant}/ditaa.puml
+== introduction
+
+I'm currently moving to asciidoc and plantuml to write docs.
+Github asciidoc parsing does not understand plantuml.
+
+.Result
+image::{gitplant}/ditaa.puml[PlantUML Image]
