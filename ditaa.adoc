@@ -1,16 +1,4 @@
-= ASCIIDOC README
-Author Name <rotty2000@gmail.com>
-v2.0, 2019-03-22
+= ASCIIDOC with Diagram
 :gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/rotty3000/design/rotty3000-patch-1/
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
 
-== introduction
-
-.Result
 image::{gitplant}/ditaa.puml[PlantUML Image]
