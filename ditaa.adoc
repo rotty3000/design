@@ -1,0 +1,7 @@
+= ASCIIDOC README
+Author Name <rotty2000@gmail.com>
+v2.0, 2019-03-22
+:toc:
+:gitplant: http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/rotty3000/design/rotty3000-patch-1/
+
+image::{gitplant}/ditaa.puml
